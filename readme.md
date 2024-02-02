@@ -11,11 +11,12 @@ The Software House - Node.js Developer recruitment task
 
 # Install, Configure & Run
 
-Below mentioned are the steps to install, configure & run in your platform/distributions.
+Below mentioned are the steps to install, configure & run the solution.
 
 ```bash
 # Clone the repo.
 git clone https://github.com/karolinadebowska/TSH.git
+
 # Goto the cloned project folder.
 cd TSH
 ```
