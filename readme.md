@@ -1,6 +1,3 @@
-```
-Hey There! 🙌
-```
 
 The Software House - Node.js Developer recruitment task
 
@@ -18,9 +15,9 @@ Below mentioned are the steps to install, configure & run in your platform/distr
 
 ```bash
 # Clone the repo.
-
+git clone https://github.com/karolinadebowska/TSH.git
 # Goto the cloned project folder.
-
+cd TSH
 ```
 
 ```bash
