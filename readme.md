@@ -1,6 +1,3 @@
-```
-Hey There! 🙌
-```
 
 The Software House - Node.js Developer recruitment task
 
