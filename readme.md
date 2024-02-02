@@ -1,7 +1,7 @@
 
 The Software House - Node.js Developer recruitment task
 
-- This task is built using [Express.js](https://expressjs.com/) web framework, and is using [Typescript Lang](https://www.typescriptlang.org/) for writing the app's logic.
+- This task is built using [Express.js](https://expressjs.com/) web framework, and is using [Typescript Language](https://www.typescriptlang.org/) for writing the app's logic.
 
 # Contents
 
