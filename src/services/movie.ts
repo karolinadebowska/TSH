@@ -43,7 +43,7 @@ const createMovie = async (movie: Movie): Promise<MovieDocument> => {
   const { genres, movies } = await getData()
   const doc = { id: movies[movies.length - 1].id + 1, ...movie } as MovieDocument
   movies.push(doc)
-  await fsp.writeFile(PATH, JSON.stringify({ genres, movies }))
+  await fsp.writeFile(PATH, JSON.stringify({ genres, movies }, null, 4))
   return doc
 }
 
